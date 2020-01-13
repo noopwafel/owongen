@@ -2,6 +2,7 @@
 import usb.core
 import usb.util
 
+# based on the docs for the AG Series Waveform Generator SCPI Protocol
 # tested on the AG2052F at revspace
 # MIT licensed, see LICENSE
 
